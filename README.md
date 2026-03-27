@@ -1,5 +1,5 @@
 # RAG System: OpenAI + Vector Database
-AI RAG pipeline using LLMs and vector search for document retrieval and grounded response generation
+End-to-end RAG pipeline using LLMs and vector databases for retrieval, grounding, and response generation.
 
 ## 🔎 View the Project
 - 👉 [View Notebook (Technical - .ipynb)](./rag_pipeline.ipynb)
